@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Content" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 280 280">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        font-family: Hey-Comic, 'Hey Comic';
+      }
+
+      .cls-1, .cls-2, .cls-6, .cls-7 {
+        font-size: 187.861953735351562px;
+      }
+
+      .cls-1, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-8 {
+        font-size: 68.692352294921875px;
+      }
+
+      .cls-3, .cls-4, .cls-6, .cls-7 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3, .cls-6 {
+        stroke: #665451;
+        stroke-width: 50px;
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #998675;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g>
+    <text class="cls-2" transform="translate(20.654905359726399 165.36603609577287) rotate(7.840180445280564)"><tspan x="0" y="0">h</tspan></text>
+    <a xlink:href="https://www.notion.so/congruence/hypothesis-f8e01f142f324c2b8a2aaf7e4944f125?pvs=4">
+      <text class="cls-8" transform="translate(123.046929354546592 175.319659399567172) rotate(9.805285110213172)"><tspan x="0" y="0">A</tspan></text>
+    </a>
+  </g>
+  <g>
+    <text class="cls-6" transform="translate(20.654905359726399 165.36603609577287) rotate(7.840180445280564)"><tspan x="0" y="0">h</tspan></text>
+    <a xlink:href="https://www.notion.so/congruence/hypothesis-f8e01f142f324c2b8a2aaf7e4944f125?pvs=4">
+      <text class="cls-3" transform="translate(123.046929354546592 175.319659399567172) rotate(9.805285110213172)"><tspan x="0" y="0">A</tspan></text>
+    </a>
+  </g>
+  <g>
+    <text class="cls-7" transform="translate(20.654905359726399 165.36603609577287) rotate(7.840180445280564)"><tspan x="0" y="0">h</tspan></text>
+    <a xlink:href="https://www.notion.so/congruence/hypothesis-f8e01f142f324c2b8a2aaf7e4944f125?pvs=4">
+      <text class="cls-4" transform="translate(123.046929354546592 175.319659399567172) rotate(9.805285110213172)"><tspan x="0" y="0">A</tspan></text>
+    </a>
+  </g>
+  <g>
+    <text class="cls-1" transform="translate(20.654905359726399 165.36603609577287) rotate(7.840180445280564)"><tspan x="0" y="0">h</tspan></text>
+    <a xlink:href="https://www.notion.so/congruence/hypothesis-f8e01f142f324c2b8a2aaf7e4944f125?pvs=4">
+      <text class="cls-5" transform="translate(123.046929354546592 175.319659399567172) rotate(9.805285110213172)"><tspan x="0" y="0">A</tspan></text>
+    </a>
+  </g>
+</svg>
