@@ -10,7 +10,7 @@
         fill: url(#linear-gradient);
       }
     </style>
-    <linearGradient id="linear-gradient" x1="140.000018929789803" y1="133.550199784476717" x2="140.000018929789803" y2="15.514205181096258" gradientUnits="userSpaceOnUse">
+    <linearGradient id="linear-gradient" x1="140.000018929788894" y1="133.550199784476717" x2="140.000018929788894" y2="15.514205181096258" gradientUnits="userSpaceOnUse">
       <stop offset=".033113946447839" stop-color="#d4c0a3" stop-opacity="0"/>
       <stop offset=".077445529981579" stop-color="#d4c0a3" stop-opacity=".067075563153634"/>
       <stop offset=".702797202797203" stop-color="#d4c0a3"/>
