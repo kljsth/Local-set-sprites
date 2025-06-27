@@ -1,0 +1,46 @@
+<svg width="6607" height="975" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" overflow="hidden">
+    <defs>
+        <linearGradient x1="2902.38" y1="-1787.01" x2="2860.62" y2="-590.991" gradientUnits="userSpaceOnUse"
+            spreadMethod="reflect" id="fill0">
+            <stop offset="0" stop-color="#f8f7f7" />
+            <stop offset="0.71" stop-color="rgba(255,255,255,0)" />
+            <stop offset="1" stop-color="rgba(248,247,247,0)" />
+        </linearGradient>
+    </defs>
+    <defs>
+        <linearGradient x1="2902.38" y1="-1787.01" x2="2860.62" y2="-590.991" gradientUnits="userSpaceOnUse"
+            spreadMethod="reflect" id="fill1">
+            <stop offset="0" stop-color="#141414" />
+            <stop offset="0.71" stop-color="rgba(20,20,20,0)" />
+            <stop offset="1" stop-color="rgba(20,20,20,0)" />
+        </linearGradient>
+    </defs>
+    <style>
+        .dark-only {
+            display: none;
+        }
+
+        .light-only {
+            display: inline;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .dark-only {
+                display: inline;
+            }
+
+            .light-only {
+                display: none;
+            }
+        }
+    </style>
+    <g transform="translate(422 1677)">
+        <path class="light-only" d="M-418.5-1672.5C851.738-1392.21 3981.5-1672.5 6181.5-1672.5L6181.5-705.5-418.5-705.5-418.5-1672.5Z"
+            stroke="rgba(4,36,51,0)" stroke-width="6.875" stroke-miterlimit="8" fill="url(#fill0)" fill-rule="evenodd" />
+    </g>
+        <g transform="translate(422 1677)">
+        <path class="dark-only" d="M-418.5-1672.5C851.738-1392.21 3981.5-1672.5 6181.5-1672.5L6181.5-705.5-418.5-705.5-418.5-1672.5Z"
+            stroke="rgba(4,61,87,0)" stroke-width="6.875" stroke-miterlimit="8" fill="url(#fill1)" fill-rule="evenodd" />
+    </g>
+</svg>
